@@ -1,1 +1,1 @@
-# 30-Days-30-Projects-Challenge
+# 30-Days-30-Projects-Challenge (JavaScript)
