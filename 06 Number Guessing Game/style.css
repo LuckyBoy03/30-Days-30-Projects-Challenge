@@ -1,0 +1,64 @@
+body {
+    background-color: #F0E8E8;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #E0DADA;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #C7C1C1,
+        -5px -5px 10px #F6F2F2;
+    width: 400px;
+    margin-top: 100px auto;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 0;
+}
+
+p {
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=number] {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    background-color: #C7C1C1;
+    color: #FFF;
+    width: 70%;
+    margin-right: 10px;
+    box-shadow: 3px 3px 5px #C7C1C1,
+        -3px -3px 5px #F6F2F2;
+}
+
+button {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+    box-shadow: 3px 3px 5px #C7C1C1,
+        -3px -3px 5px #F6F2F2;
+    cursor: pointer;
+}
+
+#guess-btn {
+    background-color: #66B9F0;
+    color: #F6F2F2;
+}
+
+#reset-btn {
+    background-color: #FF6B6B;
+    color: #FFF;
+}
+
+#message {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
